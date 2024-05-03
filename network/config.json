@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "clustername",
+    "groupSelectorAttribute": "clusteri",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
